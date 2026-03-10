@@ -1,0 +1,5 @@
+{
+  "name": "AI Interviewer Pro",
+  "description": "An AI-powered interviewer that conducts live voice interviews based on job descriptions and CVs, and provides evaluation reports.",
+  "requestFramePermissions": ["microphone"]
+}
